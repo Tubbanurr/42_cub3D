@@ -67,7 +67,7 @@ make
 ---
 
 ## 🎁 Bonus Özellikler
-
+**NOT:** BU PROJEDE BONUS KISMI BULUNMAMAKTADIR!
 - **Duvar çarpışmaları**
 - **Mini harita (mini-map)**
 - **Açılıp kapanabilen kapılar**
